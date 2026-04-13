@@ -1,0 +1,12 @@
+{
+  "name": "@frs/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"web scaffold pending in next increment\"",
+    "build": "echo \"web build pending\"",
+    "typecheck": "echo \"web typecheck pending\"",
+    "lint": "echo \"web lint pending\"",
+    "test": "echo \"web test pending\""
+  }
+}
